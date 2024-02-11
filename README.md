@@ -6,6 +6,8 @@ El desafío es desarrollar este sitio y lograr que se parezca lo más posible al
 - CSS
 - JS
 
+![desktop-preview](https://github.com/Cheosphere/gogodev-ejercicio-css/assets/112582420/1956fe04-ee4b-487a-ac3c-c294ea0e04ba)
+
 # Guía de Estilo
 
 ## Diseño
