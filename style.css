@@ -481,6 +481,8 @@ li {
     flex-direction: column;
     background-color: var(--primary-color);
     background-image: url(./assets/images/contact_g.jpg);
+    background-size: cover;
+    background-position: center center;
 }
 
 .main-content-contact-title {
@@ -560,7 +562,8 @@ textarea::placeholder {
     position: relative;
     color: var(--white);
     background-image: url('./assets/images/footer.jpg');
-    background-position: cover;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     border-top: 1px solid var(--white);
 }
